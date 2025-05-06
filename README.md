@@ -6,7 +6,7 @@
 <img src="https://github.com/Joshua-987/Uber-Analysis/blob/main/Visuals/Time%20Analysis.JPG" alt="Time-Analysis Dashboard" width="1000"/>
 
 
-<img src="https://github.com/Joshua-987/Uber-Analysis/blob/main/Visuals/Detail%20Analysis.JPG" alt="Details Dashboard" width="1000"/>
+<img src="https://github.com/Joshua-K1234/Uber-Dashboard/blob/main/Visuals/Detail%20Analysis.JPG" alt="Details Dashboard" width="1000"/>
 
 ### Project Goal
 Analyze and build reports around booking data, to provide KPI and performance reports, and to uncover deeper insights from the dataset.
