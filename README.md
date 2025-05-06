@@ -1,6 +1,6 @@
 # Uber-Analysis
 
-<img src="https://github.com/Joshua-987/Uber-Analysis/blob/main/Visuals/Overview%20Dashboard.JPG" alt="Overview Dashboard" width="1000"/>
+<img src="https://github.com/Joshua-K1234/Uber-Dashboard/blob/main/Visuals/Overview%20Dashboard.JPG" alt="Overview Dashboard" width="1000"/>
 
 
 <img src="https://github.com/Joshua-987/Uber-Analysis/blob/main/Visuals/Time%20Analysis.JPG" alt="Time-Analysis Dashboard" width="1000"/>
