@@ -29,8 +29,7 @@ Analyze and build reports around booking data, to provide KPI and performance re
     - These measures required me to be able to locate correct location IDs within trip details and match them with the location table, even using an inactive relationship to do so.
 
 ### 3. Data model
-
-<img src="https://github.com/Joshua-987/Uber-Analysis/blob/main/Data%20Model.JPG" alt="Data Model" width="1000"/>
+<img src="https://github.com/Joshua-K1234/Uber-Dashboard/blob/main/Data%20Model.JPG" alt="Data Model" width="1000"/>
 
 ### 4. Analytics Use Cases  
 
